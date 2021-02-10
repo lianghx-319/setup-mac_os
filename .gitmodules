@@ -1,0 +1,9 @@
+[submodule "mac_os"]
+	path = mac_os
+	url = https://github.com/bkuhlmann/mac_os.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/lianghx-319/dotfiles
+[submodule "mac_os-config"]
+	path = mac_os-config
+	url = https://github.com/lianghx-319/mac_os-config.git
