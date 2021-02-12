@@ -3,7 +3,7 @@
 	url = https://github.com/bkuhlmann/mac_os.git
 [submodule "dotfiles"]
 	path = dotfiles
-	url = https://github.com/lianghx-319/dotfiles
+	url = https://github.com/lianghx-319/dotfiles.git
 [submodule "mac_os-config"]
 	path = mac_os-config
 	url = https://github.com/lianghx-319/mac_os-config.git
