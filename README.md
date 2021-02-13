@@ -1,4 +1,6 @@
 # Step of Setup My MacOS
+![image](https://user-images.githubusercontent.com/27187946/107843651-0a81bb00-6e08-11eb-8fe5-7c63f939a9c5.png)
+
 ## Feature
 - [fish shell](https://fishshell.com/)
   - use [fisher](https://github.com/jorgebucaran/fisher) to manager fish plugin
